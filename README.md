@@ -4,5 +4,7 @@
 En este caso, hemos analizado los tweets de Bill Gates, Elonmusk y Mayoredlee. 
 
 Las tecnologías utilizas han sido:
+
 RStudio como lenguaje de programación 
+
 Librerías: readxl, dplyr, tidyverse, lubridate, wordcloud y tidytext
